@@ -11,7 +11,7 @@ Hello, world! Меня зовут Silent, я занимаюсь программ
 
 Аккаунт в роблокс: @guzz323 / ASCII (На тот момент: 23.01.2025 | 16.27)
 
-===============================================================================================================================================================================================================================================================================
+======================================================
 
 ENG:
 Hello, world! My name is Silent, I am engaged in programming in 2 programming languages at an intermediate level (as I believe, maybe at a low level), namely Python and Lua in the Roblox environment. I've been doing this since I was 13 (as I remember) and I continue to learn more about the languages I've already learned (mostly self-taught). I'm currently studying to become a programmer in college with a degree in Information Systems and Programming. I haven't participated in any open-source projects yet, and I haven't participated in programming-related competitions. For me, programming is both a hobby and a future tool for working in various fields of IT.
